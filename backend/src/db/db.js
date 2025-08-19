@@ -1,2 +1,2 @@
-const db = {}; //In memory database
+const db = []; //In memory database
 export default db;
